@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcel</h1>
-<h3 align="center">A passionate Fullstack Dev-Ops from Germany, living on Crete</h3>
+<h3 align="center">A passionate Fullstack Dev-Ops / Platform Engineer from Germany, living on Crete</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mheers&label=Profile%20views&color=0e75b6&style=flat" alt="mheers" /> </p>
 
