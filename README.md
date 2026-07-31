@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Marcel</h1>
 
 <p align="center">
-  <strong>Full-stack DevOps developer</strong> from Germany, living on Crete.
+  <strong>Full-stack DevOps and platform engineer working across AI, data, and authorization</strong>
+  from Germany, living on Crete.
 </p>
 
 <p align="center">
